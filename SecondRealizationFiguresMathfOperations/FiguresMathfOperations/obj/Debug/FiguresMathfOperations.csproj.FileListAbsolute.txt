@@ -1,0 +1,6 @@
+D:\programs\visualStudio\Projects\FiguresMathfOperations\FiguresMathfOperations\bin\Debug\FiguresMathfOperations.dll
+D:\programs\visualStudio\Projects\FiguresMathfOperations\FiguresMathfOperations\bin\Debug\FiguresMathfOperations.pdb
+D:\programs\visualStudio\Projects\FiguresMathfOperations\FiguresMathfOperations\obj\Debug\FiguresMathfOperations.csproj.AssemblyReference.cache
+D:\programs\visualStudio\Projects\FiguresMathfOperations\FiguresMathfOperations\obj\Debug\FiguresMathfOperations.csproj.CoreCompileInputs.cache
+D:\programs\visualStudio\Projects\FiguresMathfOperations\FiguresMathfOperations\obj\Debug\FiguresMathfOperations.dll
+D:\programs\visualStudio\Projects\FiguresMathfOperations\FiguresMathfOperations\obj\Debug\FiguresMathfOperations.pdb

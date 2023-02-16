@@ -1,0 +1,11 @@
+D:\programs\visualStudio\Projects\FiguresMathfOperations\View\bin\Debug\View.exe.config
+D:\programs\visualStudio\Projects\FiguresMathfOperations\View\bin\Debug\View.exe
+D:\programs\visualStudio\Projects\FiguresMathfOperations\View\bin\Debug\View.pdb
+D:\programs\visualStudio\Projects\FiguresMathfOperations\View\bin\Debug\FiguresMathfOperations.dll
+D:\programs\visualStudio\Projects\FiguresMathfOperations\View\bin\Debug\FiguresMathfOperations.pdb
+D:\programs\visualStudio\Projects\FiguresMathfOperations\View\obj\Debug\View.csproj.AssemblyReference.cache
+D:\programs\visualStudio\Projects\FiguresMathfOperations\View\obj\Debug\View.csproj.SuggestedBindingRedirects.cache
+D:\programs\visualStudio\Projects\FiguresMathfOperations\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+D:\programs\visualStudio\Projects\FiguresMathfOperations\View\obj\Debug\View.csproj.CopyComplete
+D:\programs\visualStudio\Projects\FiguresMathfOperations\View\obj\Debug\View.exe
+D:\programs\visualStudio\Projects\FiguresMathfOperations\View\obj\Debug\View.pdb
